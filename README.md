@@ -3,6 +3,10 @@
 The Prescription Management System is a web-based application that allows patients to upload and manage their prescriptions, and pharmacies to receive and fulfill these prescriptions. This repository contains the source code for the application.
 
 ### This project is live on:-https://medicalpharmacy.vercel.app
+You can login in both as a customer and a pharmacist using the credentials:-
+username=abc@gmail.com
+password=abc123
+and other fields are not mandatory 
 
 ## Features
 
